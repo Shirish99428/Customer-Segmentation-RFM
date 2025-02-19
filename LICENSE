@@ -22,13 +22,5 @@ SOFTWARE.
 
 ---
 
-#### **`requirements.txt`**  
-This file contains all dependencies.  
 
-```txt
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
 
